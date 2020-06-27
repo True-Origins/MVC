@@ -1,0 +1,12 @@
+Model\VO\VO_ClsTriangulo.class
+Model\VO\VO_ClsRectangulo.class
+Model\DAO\DAO_ClsRectangulo.class
+Vista\FrmFigura$2.class
+Vista\FrmFigura.class
+Controlador\Ctrl_ClsFigura$1.class
+Vista\FrmFigura$1.class
+Controlador\ClsMain.class
+Controlador\Ctrl_ClsFigura.class
+Model\VO\VO_ClsCuadrado.class
+Model\DAO\DAO_ClsCuadrado.class
+Model\DAO\DAO_ClsTriangulo.class
